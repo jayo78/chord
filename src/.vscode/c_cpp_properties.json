@@ -1,16 +1,1 @@
-{
-    "configurations": [
-        {
-            "name": "Linux",
-            "includePath": [
-                "/home/jayo78/CMSC417/cmsc417_projects/assignment4/**"
-            ],
-            "defines": [],
-            "compilerPath": "/usr/bin/gcc",
-            "cStandard": "gnu18",
-            "cppStandard": "gnu++14",
-            "intelliSenseMode": "gcc-x64"
-        }
-    ],
-    "version": 4
-}
+
